@@ -1,3 +1,3 @@
-# educonnectfinal
+# educonnect
 
 A new Flutter project.
